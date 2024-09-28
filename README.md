@@ -1,0 +1,1 @@
+The "Book_Your_Vehicle" program is a Java-based console application that allows users to select and book a vehicle, either a car or a bus, for travel based on their choice. The program also handles payments and ensures that users provide correct input through custom exception handling.
